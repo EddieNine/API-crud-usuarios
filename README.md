@@ -101,7 +101,7 @@ Ou via terminal:
 
 ## 📷 Imagem da API em execução
 
-![api-demo](https://github.com/user-attachments/assets/bb599de7-dda5-4cc9-8cc8-6cb8ab292836)
+![api-demo](https://github.com/user-attachments/assets/091aec56-070d-4594-a739-bbd248e7828f)
 
 
 ---
